@@ -1,12 +1,14 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+future: true
+title: What is Motion for?
+email: deqingsun@google.com
+description: What is Motion for? # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://what-is-motion-for.github.io" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: "ftmguney"
+github_username: "what-is-motion-for"
 
 # Build settings
 markdown: kramdown
+theme: minima
